@@ -8,3 +8,5 @@ int main() {
     cout << "Сумма: " << (a + b) << endl;
     return 0;
 }
+cout << "Произведение: " << (a * b) << endl;
+cout << "Частное: " << (a / b) << endl;
