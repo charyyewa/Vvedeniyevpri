@@ -10,3 +10,4 @@ int main() {
 }
 cout << "Произведение: " << (a * b) << endl;
 cout << "Частное: " << (a / b) << endl;
+cout << 'Изменения в master';
