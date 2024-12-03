@@ -8,3 +8,4 @@ int main() {
     cout << "Сумма: " << (a + b) << endl;
     return 0;
 }
+cout << 'Изменения в division';
